@@ -4,10 +4,10 @@
     "homepage" : "https://codecanyon.net/user/kisded/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/seo/master/gryphon-seo-tools.zip",
     
-    "version" : "1.0",
+    "version" : "1.1",
     "requires" : "3.0",
     "tested" : "4.6",
-    "last_updated" : "2016-10-10",
+    "last_updated" : "2016-11-07",
     
     "author" : "kisded",
     "author_homepage" : "https://codecanyon.net/user/kisded/portfolio",
@@ -15,6 +15,6 @@
     "sections" : 
     {
         "description" : "<p>Gryphon - The one and only SEO plugin you will ever need for best SEO performance!</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2016-10-10</strong> <ul> <li>First version released!</li> </ul>"
+        "changelog" : "<strong>Version 1.0 Release Date 2016-10-10</strong> <ul> <li>First version released!</li> </ul><br/><strong>Version 1.1 Release Date 2016-11-07</strong> <ul><li>Updated included SEO Guide</li> <li>Updated auto-update module to latest version</li><li>Removed some debug messages</li> <li>Other minor fixes</li></ul>"
     }
 }
