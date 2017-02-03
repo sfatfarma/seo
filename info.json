@@ -4,10 +4,10 @@
     "homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
     "download_url" : "https://rawgit.com/sfatfarma/seo/master/gryphon-seo-tools.zip",
     
-    "version" : "1.6",
+    "version" : "1.7",
     "requires" : "3.0",
     "tested" : "4.7",
-    "last_updated" : "2017-02-03",
+    "last_updated" : "2017-02-04",
     
     "author" : "CodeRevolution",
     "author_homepage" : "https://codecanyon.net/user/coderevolution/portfolio",
@@ -15,6 +15,6 @@
     "sections" : 
     {
         "description" : "<p>Gryphon - The one and only SEO plugin you will ever need for best SEO performance!</p>",
-        "changelog" : "<strong>Version 1.0 Release Date 2016-10-10</strong> <ul> <li>First version released!</li> </ul><br/><strong>Version 1.1 Release Date 2016-11-07</strong> <ul><li>Updated included SEO Guide</li> <li>Updated auto-update module to latest version</li><li>Removed some debug messages</li> <li>Other minor fixes</li></ul><br/><strong>Version 1.2 Release Date 2016-12-05</strong> <ul><li>Included brand new SEO Redirect Module!</li><li>Updated included documentation</li><li>Removed some obsolete code</li> <li>Other minor fixes and enhancements</li></ul><br/><strong>Version 1.3 Release Date 2016-12-14</strong> <ul> <li>Fixed critical bug in file editor!</li> </ul><br/><strong>Version 1.4 Release Date 2017-01-10</strong> <ul><li>Added readability score testing for posts (Post Letter Count, Post Word Count, Sentence Count, Avarage Words Per Sentence, Readability Score, Grade Level Needed to Understand the Text)</li> <li>Quick in-post Broken Link Checker</li> <li>Option to automatically add 'alt' and 'title' tags to all images!</li><li>In post URL scanner - check for non-ASCII characters, check for underscores, check for too long URLs</li><li>Some minor fixes and improvements</li> </ul><br/><strong>Version 1.5 Release Date 2017-01-31</strong> <ul><li>Some major fixes in meta tag generation process</li></ul><br/><strong>Version 1.6 Release Date 2017-02-03</strong> <ul><li>Minor fix in file editor</li></ul><br/>"
+        "changelog" : "<strong>Version 1.0 Release Date 2016-10-10</strong> <ul> <li>First version released!</li> </ul><br/><strong>Version 1.1 Release Date 2016-11-07</strong> <ul><li>Updated included SEO Guide</li> <li>Updated auto-update module to latest version</li><li>Removed some debug messages</li> <li>Other minor fixes</li></ul><br/><strong>Version 1.2 Release Date 2016-12-05</strong> <ul><li>Included brand new SEO Redirect Module!</li><li>Updated included documentation</li><li>Removed some obsolete code</li> <li>Other minor fixes and enhancements</li></ul><br/><strong>Version 1.3 Release Date 2016-12-14</strong> <ul> <li>Fixed critical bug in file editor!</li> </ul><br/><strong>Version 1.4 Release Date 2017-01-10</strong> <ul><li>Added readability score testing for posts (Post Letter Count, Post Word Count, Sentence Count, Avarage Words Per Sentence, Readability Score, Grade Level Needed to Understand the Text)</li> <li>Quick in-post Broken Link Checker</li> <li>Option to automatically add 'alt' and 'title' tags to all images!</li><li>In post URL scanner - check for non-ASCII characters, check for underscores, check for too long URLs</li><li>Some minor fixes and improvements</li> </ul><br/><strong>Version 1.5 Release Date 2017-01-31</strong> <ul><li>Some major fixes in meta tag generation process</li></ul><br/><strong>Version 1.6 Release Date 2017-02-03</strong> <ul><li>Minor fix in file editor</li></ul><br/><strong>Version 1.7 Release Date 2017-02-04</strong> <ul><li>Added multisite support</li></ul><br/>"
     }
 }
